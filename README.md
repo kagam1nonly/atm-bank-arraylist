@@ -64,8 +64,14 @@ run_atm.bat
 
 ## Screenshots
 
-_Screenshots will be added here_
+<img width="1103" height="738" alt="image" src="https://github.com/user-attachments/assets/b755402c-6041-4d2e-996a-8e60fdb132ab" />
+<img width="1101" height="735" alt="image" src="https://github.com/user-attachments/assets/61f975a4-c69f-4a4b-a506-615efeabcf25" />
+<img width="1104" height="737" alt="image" src="https://github.com/user-attachments/assets/4bdd3e6e-6a0c-4619-9313-1f76a7b4eb0d" />
+<img width="1103" height="737" alt="image" src="https://github.com/user-attachments/assets/26b928f0-4b4b-4402-9f80-05a0fbfbc8b4" />
+
+
 
 ## License
 
 This project is for educational purposes.
+
