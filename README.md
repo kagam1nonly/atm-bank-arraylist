@@ -1,4 +1,4 @@
-# ATM Bank System
+# Modern ATM Banking System with a simple UI
 
 A modern ATM banking application built with Java 21 and Swing UI.
 
@@ -74,4 +74,5 @@ run_atm.bat
 ## License
 
 This project is for educational purposes.
+
 
